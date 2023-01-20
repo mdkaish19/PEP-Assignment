@@ -1,4 +1,4 @@
-![scrnli_20_1_2023_3-25-33 pm](https://user-images.githubusercontent.com/93025148/213676238-7eeb8861-20e1-4fd1-a847-0083af1bedc4.gif)
+
 
 # Getting Started with Create React App
 

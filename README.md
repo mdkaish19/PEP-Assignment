@@ -1,4 +1,4 @@
-![Veg Pizza](https://user-images.githubusercontent.com/93025148/213634148-0416d2cc-f51c-49b0-821b-bd71b3127774.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
